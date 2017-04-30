@@ -1,0 +1,21 @@
+# IP service provider.
+IP_SERVICE=icanhazip.com
+
+# Sub domain to update.
+SUB_DOMAIN=Sub Domain
+
+# Domain name.
+DOMAIN=somebody.me
+
+# DNSPod login ID.
+LOGIN_ID=1
+
+# DNSPod login token.
+LOGIN_TOKEN=x
+
+# DNSPod domain ID.
+DOMAIN_ID=1
+
+# DNSPod record.
+RECORD=1
+
